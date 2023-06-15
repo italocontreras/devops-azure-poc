@@ -1,0 +1,5 @@
+--install tomcat
+--install java jdk
+--install maven
+--mvn clean install
+--init setup in tomcat folder ,copy webapp.war in weabbps in tomcat folder and check http://localhost:8080/webapp/  
