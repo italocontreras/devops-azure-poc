@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: test-selft-hosted
+  vmImage: ubuntu-latest
 
 steps:
 - task: Maven@3
